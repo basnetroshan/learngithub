@@ -1,6 +1,6 @@
 #Just to learn GIT
-Check if git is installed on your system as : git --version in git bash or command line
-Create a new folder in your system, right click on the folder and click gitbash here
+      Check if git is installed on your system as : git --version in git bash or command line
+      Create a new folder in your system, right click on the folder and click gitbash here
 
 In Local Repo: 
 
@@ -57,14 +57,14 @@ In Local Repo:
         git merge branch_name (enter i, comment, Esc and :wq )
   
   Working on remote repo:
-    git remote <Lists the remote repos>
-    git remote add origin <Enter remote repo URL here>
-  
- If others want to get contents out of a repo:
-  copy the https repo link from clone or download, open gitbash and use :
-    git clone <https link>
+        git remote <Lists the remote repos>
+        git remote add origin <Enter remote repo URL here>
 
-  To pull all the changes:
-    git pull
+             If others want to get contents out of a repo:
+              copy the https repo link from clone or download, open gitbash and use :
+                git clone <https link>
+
+              To pull all the changes:
+                git pull
     
  
